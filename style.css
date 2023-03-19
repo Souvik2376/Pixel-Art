@@ -6,11 +6,11 @@
 }
 
 body{
-    background-color: #2583cf;
+    background-color: #b420bf;
 }
 
 .wrapper{
-    background-color: #79dae7;
+    background-color: #ffffff;
     width: 80vmin;
     position: absolute;
     transform: translate(-50%, -50%);
@@ -38,7 +38,7 @@ span{
 }
 
 button{
-    background-color: #433aea;
+    background-color: #dc7ada;
     border: none;
     border-radius: 5px;
     padding: 5px;
@@ -58,11 +58,11 @@ input[type="color"]{
 
 input[type="color"]::-webkit-color-swatch{
     border-radius: 8px;
-    border: 1px solid #0e19b9;
+    border: 1px solid #d30ada;
 }
 input[type="color"]::-moz-color-swatch{
     border-radius: 8px;
-    border: 4px solid #1c086a;
+    border: 4px solid #82067d;
 }
 
 .gridCol{
